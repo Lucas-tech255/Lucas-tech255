@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá! Eu sou Lucas Nogueira Barbosa
 
-<!--
-**Lucas-tech255/Lucas-tech255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação na PUC Minas
 
-Here are some ideas to get you started:
+💻 Técnico em Informática pelo IFMG
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Interesses:
+- Desenvolvimento de Software
+- Inteligência Artificial
+- Segurança da Informação
+
+📚 Atualmente estudando:
+- Python
+- C
+- C++
+- Estruturas de Dados
+- Algoritmos
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/lucasnogueirabarbosa
